@@ -50,3 +50,5 @@ skills:
    - title
    - confidence_score
    - Foreign_key('user.id')
+   
+ pgadmin can be configured and used with this app to store the details.
